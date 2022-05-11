@@ -1,0 +1,43 @@
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Form2.resources
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Form3.resources
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\bin\Debug\Newtonsoft.Json.dll
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Phonebook\Phonebook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chuev\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\chuev\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\chuev\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\chuev\Desktop\Phonebook\Phonebook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chuev\Desktop\Phonebook\Phonebook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Form2.resources
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Form3.resources
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CopyComplete
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\chuev\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\bin\Debug\Newtonsoft.Json.dll
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\bin\Debug\Newtonsoft.Json.xml
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.Form2.resources
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.Form3.resources
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CopyComplete
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\важливо\Проекти\WinForms#Phonebook\Phonebook\obj\Debug\Phonebook.pdb
